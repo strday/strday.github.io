@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+
+.mw{
+    height: 100vh;
+}
+
+.canvas {
+    height: 100%;
+    width: 100%;
+}
