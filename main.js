@@ -1,5 +1,5 @@
-const p = new PANOLENS.ImagePanorama('images/3.jpg');
-const p2 = new PANOLENS.ImagePanorama('images/5.jpg');
+const p = new PANOLENS.ImagePanorama('3.jpg');
+const p2 = new PANOLENS.ImagePanorama('5.jpg');
 let c = document.querySelector('.mw')
 
 var hot = [
